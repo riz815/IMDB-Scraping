@@ -1,0 +1,251 @@
+Movie_Name,Rating,Year
+The Shawshank Redemption,1,1994
+The Godfather,2,1972
+The Dark Knight,3,2008
+The Godfather Part II,4,1974
+12 Angry Men,5,1957
+Schindler's List,6,1993
+The Lord of the Rings: The Return of the King,7,2003
+Pulp Fiction,8,1994
+The Lord of the Rings: The Fellowship of the Ring,9,2001
+"Il buono, il brutto, il cattivo",10,1966
+Forrest Gump,11,1994
+Fight Club,12,1999
+The Lord of the Rings: The Two Towers,13,2002
+Inception,14,2010
+The Empire Strikes Back,15,1980
+The Matrix,16,1999
+Goodfellas,17,1990
+One Flew Over the Cuckoo's Nest,18,1975
+Se7en,19,1995
+Shichinin no samurai,20,1954
+It's a Wonderful Life,21,1946
+The Silence of the Lambs,22,1991
+Cidade de Deus,23,2002
+Saving Private Ryan,24,1998
+La vita è bella,25,1997
+Interstellar,26,2014
+The Green Mile,27,1999
+Star Wars,28,1977
+Terminator 2: Judgment Day,29,1991
+Back to the Future,30,1985
+Sen to Chihiro no kamikakushi,31,2001
+Psycho,32,1960
+The Pianist,33,2002
+Gisaengchung,34,2019
+Léon,35,1994
+The Lion King,36,1994
+Gladiator,37,2000
+American History X,38,1998
+The Departed,39,2006
+The Usual Suspects,40,1995
+The Prestige,41,2006
+Whiplash,42,2014
+Casablanca,43,1942
+Seppuku,44,1962
+Hotaru no haka,45,1988
+The Intouchables,46,2011
+Modern Times,47,1936
+Once Upon a Time in the West,48,1968
+Rear Window,49,1954
+Nuovo Cinema Paradiso,50,1988
+Alien,51,1979
+City Lights,52,1931
+Apocalypse Now,53,1979
+Memento,54,2000
+Raiders of the Lost Ark,55,1981
+Django Unchained,56,2012
+WALL·E,57,2008
+The Lives of Others,58,2006
+Sunset Blvd.,59,1950
+Paths of Glory,60,1957
+The Shining,61,1980
+The Great Dictator,62,1940
+Avengers: Infinity War,63,2018
+Witness for the Prosecution,64,1957
+Aliens,65,1986
+Spider-Man: Into the Spider-Verse,66,2018
+American Beauty,67,1999
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,68,1964
+The Dark Knight Rises,69,2012
+Oldeuboi,70,2003
+Amadeus,71,1984
+Inglourious Basterds,72,2009
+Joker,73,2019
+Coco,74,2017
+Toy Story,75,1995
+Braveheart,76,1995
+Das Boot,77,1981
+Avengers: Endgame,78,2019
+Mononoke-hime,79,1997
+Once Upon a Time in America,80,1984
+Good Will Hunting,81,1997
+Kimi no Na wa.,82,2016
+Top Gun: Maverick,83,2022
+Requiem for a Dream,84,2000
+Singin' in the Rain,85,1952
+3 Idiots,86,2009
+Toy Story 3,87,2010
+Tengoku to jigoku,88,1963
+Star Wars: Episode VI - Return of the Jedi,89,1983
+Capharnaüm,90,2018
+2001: A Space Odyssey,91,1968
+Eternal Sunshine of the Spotless Mind,92,2004
+Reservoir Dogs,93,1992
+Jagten,94,2012
+Idi i smotri,95,1985
+Citizen Kane,96,1941
+M - Eine Stadt sucht einen Mörder,97,1931
+Lawrence of Arabia,98,1962
+North by Northwest,99,1959
+Vertigo,100,1958
+Le fabuleux destin d'Amélie Poulain,101,2001
+A Clockwork Orange,102,1971
+The Apartment,103,1960
+Ikiru,104,1952
+Double Indemnity,105,1944
+Full Metal Jacket,106,1987
+Hamilton,107,2020
+Scarface,108,1983
+To Kill a Mockingbird,109,1962
+The Sting,110,1973
+Incendies,111,2010
+Up,112,2009
+Heat,113,1995
+Taxi Driver,114,1976
+Jodaeiye Nader az Simin,115,2011
+Metropolis,116,1927
+L.A. Confidential,117,1997
+Die Hard,118,1988
+Snatch,119,2000
+Ladri di biciclette,120,1948
+Indiana Jones and the Last Crusade,121,1989
+Taare Zameen Par,122,2007
+1917,123,2019
+Der Untergang,124,2004
+Per qualche dollaro in più,125,1965
+Dangal,126,2016
+Batman Begins,127,2005
+The Kid,128,1921
+Some Like It Hot,129,1959
+The Father,130,2020
+All About Eve,131,1950
+Green Book,132,2018
+The Wolf of Wall Street,133,2013
+Judgment at Nuremberg,134,1961
+Ran,135,1985
+Casino,136,1995
+Pan's Labyrinth,137,2006
+Unforgiven,138,1992
+There Will Be Blood,139,2007
+The Truman Show,140,1998
+The Sixth Sense,141,1999
+A Beautiful Mind,142,2001
+Shutter Island,143,2010
+Yôjinbô,144,1961
+Monty Python and the Holy Grail,145,1975
+Spider-Man: No Way Home,146,2021
+The Treasure of the Sierra Madre,147,1948
+Jurassic Park,148,1993
+The Great Escape,149,1963
+Rashômon,150,1950
+Kill Bill: Vol. 1,151,2003
+No Country for Old Men,152,2007
+Finding Nemo,153,2003
+The Thing,154,1982
+The Elephant Man,155,1980
+Chinatown,156,1974
+Raging Bull,157,1980
+Gone with the Wind,158,1939
+V for Vendetta,159,2005
+Inside Out,160,2015
+"Lock, Stock and Two Smoking Barrels",161,1998
+Dial M for Murder,162,1954
+El secreto de sus ojos,163,2009
+Hauru no ugoku shiro,164,2004
+The Bridge on the River Kwai,165,1957
+"Three Billboards Outside Ebbing, Missouri",166,2017
+Trainspotting,167,1996
+Warrior,168,2011
+Fargo,169,1996
+Gran Torino,170,2008
+Prisoners,171,2013
+Tonari no Totoro,172,1988
+Catch Me If You Can,173,2002
+Million Dollar Baby,174,2004
+Bacheha-Ye aseman,175,1997
+Blade Runner,176,1982
+The Gold Rush,177,1925
+On the Waterfront,178,1954
+Before Sunrise,179,1995
+12 Years a Slave,180,2013
+Harry Potter and the Deathly Hallows - Part 2,181,2011
+Ben-Hur,182,1959
+Smultronstället,183,1957
+Gone Girl,184,2014
+The Third Man,185,1949
+The General,186,1926
+The Grand Budapest Hotel,187,2014
+The Deer Hunter,188,1978
+In the Name of the Father,189,1993
+Klaus,190,2019
+Barry Lyndon,191,1975
+Le salaire de la peur,192,1953
+Hacksaw Ridge,193,2016
+Sherlock Jr.,194,1924
+Mr. Smith Goes to Washington,195,1939
+Salinui chueok,196,2003
+Relatos salvajes,197,2014
+Det sjunde inseglet,198,1957
+Mad Max: Fury Road,199,2015
+Room,200,2015
+Mary and Max.,201,2009
+How to Train Your Dragon,202,2010
+"Monsters, Inc.",203,2001
+The Big Lebowski,204,1998
+Jaws,205,1975
+Dead Poets Society,206,1989
+La passion de Jeanne d'Arc,207,1928
+Tôkyô monogatari,208,1953
+Hotel Rwanda,209,2004
+Ford v Ferrari,210,2019
+Rocky,211,1976
+Platoon,212,1986
+Spotlight,213,2015
+The Terminator,214,1984
+Stand by Me,215,1986
+Logan,216,2017
+Ratatouille,217,2007
+Rush,218,2013
+Pather Panchali,219,1955
+Network,220,1976
+Into the Wild,221,2007
+The Wizard of Oz,222,1939
+Before Sunset,223,2004
+Groundhog Day,224,1993
+The Exorcist,225,1973
+The Best Years of Our Lives,226,1946
+The Incredibles,227,2004
+To Be or Not to Be,228,1942
+La battaglia di Algeri,229,1966
+Hachi: A Dog's Tale,230,2009
+La haine,231,1995
+Jai Bhim,232,2021
+Pirates of the Caribbean: The Curse of the Black Pearl,233,2003
+The Grapes of Wrath,234,1940
+Rebecca,235,1940
+Babam ve Oglum,236,2005
+Amores perros,237,2000
+Cool Hand Luke,238,1967
+Les quatre cents coups,239,1959
+Ah-ga-ssi,240,2016
+It Happened One Night,241,1934
+Persona,242,1966
+The Sound of Music,243,1965
+Life of Brian,244,1979
+Everything Everywhere All at Once,245,2022
+Dersu Uzala,246,1975
+Aladdin,247,1992
+The Iron Giant,248,1999
+The Help,249,2011
+Gandhi,250,1982
